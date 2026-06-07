@@ -8,5 +8,15 @@ logs
 .idea
 .vscode
 
-#Environment variables
+# Environment variables
 .env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Conversation log
+memory.md
