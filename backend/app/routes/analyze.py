@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from pydantic import BaseModel
-from app.services.ai import score_resume
+from Backend.app.services.ai import score_resume
 
 router = APIRouter()
 
