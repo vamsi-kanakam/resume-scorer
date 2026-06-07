@@ -1,0 +1,12 @@
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.idea
+.vscode
+
+#Environment variables
+.env
